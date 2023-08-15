@@ -1,0 +1,15 @@
+body {
+  background-color: #1e1e28;
+}
+
+main {
+  padding: 10rem;
+}
+
+.feature {
+  border: 2px solid #ddd;
+  padding: 3rem;
+  text-align: left;
+  color: white;
+  font-size: xx-large;
+}
